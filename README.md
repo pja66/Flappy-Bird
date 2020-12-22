@@ -1,2 +1,3 @@
 # Flappy-Bird
-A javascript implementation of the computer game flappy bird.
+
+A javascript implementation of the popular computer game flappy bird. 
